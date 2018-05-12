@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/187
     wikipedia: http://en.wikipedia.org/wiki/Charles_Eastman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25907#Indian-Child-Life
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
